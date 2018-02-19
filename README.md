@@ -1,3 +1,2 @@
 # hello-world
-tarea 2
 (...) Me pides un cuento y yo te lo cuento, más bien lo intento, te explico que un niño cruzó el universo montado en un burro con alas de plata...
